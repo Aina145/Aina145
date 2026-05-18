@@ -1,80 +1,66 @@
-Hi, I'm Aina 👋
-I'm a Full Stack Developer and Native Android Developer with a passion for building scalable web applications and mobile solutions. I specialize in creating responsive user interfaces, robust backend systems, and native Android applications that solve real-world problems.
+# Hi there, I'm Aina Malik 👋 
+### Full Stack & Native Android Developer 🚀
 
-💼 About Me
-I'm a freelance developer focused on delivering high-quality solutions across the full development stack. With experience in both web and mobile development, I work closely with clients to transform ideas into functional, user-friendly applications. My approach combines clean code practices, modern design principles, and a commitment to performance optimization.
+I am a freelance developer focused on building high-quality, scalable web applications and mobile solutions. I specialize in clean code practices, robust backend systems, and modern UI/UX design.
 
-What I Do:
+---
 
-🌐 Build full-stack web applications with modern frontend and backend technologies
-📱 Develop native Android applications with intuitive UI/UX
-🎨 Design responsive and accessible user interfaces
-🔌 Integrate complex backend systems and databases
-🚀 Optimize applications for performance and scalability
-🛠️ Tech Stack
-Frontend Development
-HTML5 CSS3 JavaScript Bootstrap
+### 🛠️ Tech Stack & Tools
 
-Backend & Database
-PHP MySQL Firebase
+#### 💻 Backend & Databases
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-Mobile Development
-Android Android%20Studio
+#### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Tools & Version Control
-Git GitHub
+#### ⚙️ Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-📌 Featured Projects
-🌐 Portfolio Website
-Full Stack Web Application
+---
 
-Responsive personal portfolio showcasing my work and skills
-Built with HTML, CSS, JavaScript, and Bootstrap
-Optimized for all devices and browsers
-Skills: Frontend Design, Responsive Development
-🛒 Grocery Store Web App
-E-Commerce Platform
+### 📌 Featured Projects
 
-Complete online grocery shopping solution
-Product catalog, shopping cart, and checkout system
-User authentication and order management
-Tech Stack: HTML, CSS, JavaScript, PHP, MySQL
-Features: Product filtering, secure transactions, order tracking
-🏨 Hotel Menu System
-Restaurant Management Application
+#### 🏠 Smart Home Service Platform
+* Connects customers with local service providers with a real-time booking system.
+* **Tech Stack:** PHP, MySQL, Firebase, JS, Bootstrap.
 
-Digital menu display and ordering system
-Real-time menu updates and availability management
-Admin dashboard for menu and order management
-Tech Stack: HTML, CSS, JavaScript, PHP, MySQL
-🏠 Home Service Application
-Service Booking Platform
+#### 🛒 Grocery Store E-Commerce Web App
+* Complete online shopping solution with product filtering, authentication, and order tracking.
+* **Tech Stack:** PHP, MySQL, JS, HTML/CSS.
 
-Connect customers with local service providers
-Real-time booking and scheduling system
-Service provider profiles and ratings
-Tech Stack: HTML, CSS, JavaScript, PHP, MySQL, Firebase
-🏥 Medical Record System
-Healthcare Management Application
+#### 🏨 Hotel Menu & Management System
+* Digital menu display with real-time updates and an admin dashboard.
+* **Tech Stack:** PHP, MySQL, JS, Bootstrap.
 
-Secure patient record management system
-Appointment scheduling and history tracking
-Doctor-patient communication interface
-Tech Stack: HTML, CSS, JavaScript, PHP, MySQL
-📱 Native Android Applications
-Mobile Solutions
+#### 📱 Native Android Applications
+* Feature-rich mobile apps with Firebase real-time sync, offline support, and Material Design.
+* **Tech Stack:** Android Studio, Java/Kotlin, Firebase.
 
-Feature-rich Android applications with intuitive design
-Firebase integration for real-time data synchronization
-Offline support and data persistence
-Material Design principles and best practices
-Tech Stack: Android Studio, Java/Kotlin, Firebase
-🎯 What I Can Help With
-✅ Full-stack web development from concept to deployment
-✅ Native Android app development and optimization
-✅ UI/UX design and implementation
-✅ Backend systems design and database architecture
-✅ API development and integration
-✅ Performance optimization and debugging
-✅ Code review and consultation
+#### 🏥 Medical Record System
+* Secure healthcare management with patient history tracking and appointment scheduling.
+* **Tech Stack:** PHP, MySQL, JavaScript.
 
+---
+
+### 📊 GitHub Stats
+
+![Aina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aina145&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aina145&layout=compact&theme=dark)
+
+---
+
+### 🎯 What I Can Help With:
+* Full-stack web & native Android app development.
+* Backend systems design, APIs, & database architecture.
+* Performance optimization, UI/UX implementation, & code consultation.
+
+📬 **Let's Connect!** Find me on **[LinkedIn](https://linkedin.com/in/ain-malik-dev75)**
