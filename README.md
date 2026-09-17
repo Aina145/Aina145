@@ -1,66 +1,242 @@
-# Hi there, I'm Aina Malik 👋 
-### Full Stack & Native Android Developer 🚀
+<div align="center">
 
-I am a freelance developer focused on building high-quality, scalable web applications and mobile solutions. I specialize in clean code practices, robust backend systems, and modern UI/UX design.
+# Hey, I'm Quratulain 👋
 
----
+### Full Stack Developer • Native Android Developer • Software Builder
 
-### 🛠️ Tech Stack & Tools
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+Web+Applications+%F0%9F%92%BB;Creating+Native+Android+Apps+%F0%9F%93%B1;Turning+Ideas+Into+Working+Products+%F0%9F%9A%80;Debugging+%2B+Building+%2B+Shipping" alt="Typing SVG" />
 
-#### 💻 Backend & Databases
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+<br>
 
-#### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Aina145\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Aina145?label=Followers\&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Aina145?affiliations=OWNER\&label=Stars\&style=for-the-badge)
 
-#### ⚙️ Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br><br>
 
----
+<a href="https://linkedin.com/in/ain-malik-dev75">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 📌 Featured Projects
+<a href="https://github.com/Aina145">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-#### 🏠 Smart Home Service Platform
-* Connects customers with local service providers with a real-time booking system.
-* **Tech Stack:** PHP, MySQL, Firebase, JS, Bootstrap.
-
-#### 🛒 Grocery Store E-Commerce Web App
-* Complete online shopping solution with product filtering, authentication, and order tracking.
-* **Tech Stack:** PHP, MySQL, JS, HTML/CSS.
-
-#### 🏨 Hotel Menu & Management System
-* Digital menu display with real-time updates and an admin dashboard.
-* **Tech Stack:** PHP, MySQL, JS, Bootstrap.
-
-#### 📱 Native Android Applications
-* Feature-rich mobile apps with Firebase real-time sync, offline support, and Material Design.
-* **Tech Stack:** Android Studio, Java/Kotlin, Firebase.
-
-#### 🏥 Medical Record System
-* Secure healthcare management with patient history tracking and appointment scheduling.
-* **Tech Stack:** PHP, MySQL, JavaScript.
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 👩‍💻 About Me
 
-![Aina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aina145&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aina145&layout=compact&theme=dark)
+I'm a **Full Stack & Native Android Developer** who enjoys turning ideas, requirements, and real-world problems into functional software.
+
+My work covers both **web and mobile development**, with a strong focus on backend systems, databases, APIs, authentication, dashboards, and practical user experiences.
+
+I work with:
+
+* 🌐 Full-stack web applications
+* 📱 Native Android applications
+* ⚙️ Backend systems & REST APIs
+* 🗄️ Database-driven applications
+* 🔐 Authentication & role-based systems
+* 🐛 Debugging & fixing existing applications
+* 📊 Admin dashboards & management systems
+* 🚀 Deployment & production-ready applications
+
+> **From a rough idea → to a working product.**
 
 ---
 
-### 🎯 What I Can Help With:
-* Full-stack web & native Android app development.
-* Backend systems design, APIs, & database architecture.
-* Performance optimization, UI/UX implementation, & code consultation.
+## 🧠 What I Work With
 
-📬 **Let's Connect!** Find me on **[LinkedIn](https://linkedin.com/in/ain-malik-dev75)**
+<div align="center">
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres,firebase" />
+
+### 📱 Android Development
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
+
+---
+
+## 🚀 What I Build
+
+```text
+Web Applications
+├── Business Websites
+├── Admin Dashboards
+├── Management Systems
+├── E-Commerce Platforms
+├── CRUD Applications
+└── REST APIs
+
+Mobile Applications
+├── Native Android Apps
+├── Firebase Applications
+├── Authentication Systems
+├── Real-Time Applications
+└── API-Based Apps
+```
+
+---
+
+## 🔥 Featured Work
+
+### 🏫 School Management System
+
+A complete management platform covering multiple operational workflows including students, teachers, attendance, fees, examinations, salaries, transport and administration.
+
+**Laravel · PHP · MySQL · JavaScript**
+
+---
+
+### 🛒 Grocery Store E-Commerce
+
+A database-driven e-commerce application with product management, categories, authentication, filtering, cart and order workflows.
+
+**PHP · MySQL · JavaScript · HTML · CSS**
+
+---
+
+### 🏠 Smart Home Service Platform
+
+A service platform designed to connect customers with service providers through a structured booking and management workflow.
+
+**PHP · MySQL · Firebase · JavaScript · Bootstrap**
+
+---
+
+### 📱 Native Android Applications
+
+Native Android applications built with Java/Kotlin and Firebase, including authentication, real-time data synchronization and structured application workflows.
+
+**Kotlin · Java · Firebase · Android Studio**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aina145&show_icons=true&hide_border=true&rank_icon=github" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aina145&layout=compact&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Aina145&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Come Alive
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aina145/Aina145/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 💻 My Development Philosophy
+
+```text
+Understand the problem
+        ↓
+Plan the solution
+        ↓
+Build the system
+        ↓
+Test & Debug
+        ↓
+Improve
+        ↓
+Deploy
+        ↓
+Repeat 🚀
+```
+
+I believe good software isn't just about writing code.
+
+It's about understanding **what actually needs to be solved**, choosing the right approach, and building something that people can actually use.
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+`AI Agents` • `AI-Assisted Development` • `Automation` • `APIs`
+`Cloud & VPS` • `System Architecture` • `Scalable Applications`
+
+</div>
+
+---
+
+## ⚡ A Little Developer Reality
+
+<div align="center">
+
+**It worked on my machine.**
+
+<br>
+
+⬇️
+
+<br>
+
+**Then production had other plans. 😅**
+
+<br><br>
+
+`BUILD → BREAK → DEBUG → FIX → SHIP`
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+If you're building something, fixing something, or have an idea that needs to become a real application — let's talk.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ain-malik-dev75">
+<img src="https://img.shields.io/badge/LinkedIn-ain--malik--dev75-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aina145">
+<img src="https://img.shields.io/badge/GitHub-Aina145-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⭐ If you find something useful here, feel free to star a repository!
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👋
+
+**Build something. Break something. Fix it. Ship it. 🚀**
+
+</div>
